@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Article page">654b57319c982d14fef9276e2125fe79</macroponent>
+        <name>Set Current Comment Id</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports}) {
+	api.setState('currentCommentId', event.payload.commentId);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-11 00:48:28</sys_created_on>
+        <sys_id>254b5731b8982d14473640cf5ab57877</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Current Comment Id</sys_name>
+        <sys_package display_value="demo SEC app" source="x_snc_demo_sec_app">ef099b4c1b90e114153b4260f54bcb73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo SEC app">ef099b4c1b90e114153b4260f54bcb73</sys_scope>
+        <sys_update_name>sys_ux_client_script_254b5731b8982d14473640cf5ab57877</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-11 00:48:28</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

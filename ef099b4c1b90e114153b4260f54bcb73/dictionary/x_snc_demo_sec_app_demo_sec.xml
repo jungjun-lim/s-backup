@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0339df4c1b90e114153b4260f54bcb1a" label="demo SEC" max_length="40" name="x_snc_demo_sec_app_demo_sec" type="collection">
+        <element label="requestor" mandatory="true" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="request_id" max_length="40" name="request_id" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="corporate reference" max_length="4000" name="corporate_reference" reference="core_company" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="service_end_date" mandatory="true" max_length="40" name="service_end_date" type="glide_date"/>
+        <element label="fulfiller" mandatory="true" max_length="32" name="fulfiller" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="service_start_date" mandatory="true" max_length="40" name="service_start_date" type="glide_date"/>
+        <element choice="3" default="00126380" label="corporate" mandatory="true" max_length="40" name="corporate" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="삼성전자" sequence="4" value="00126380"/>
+                <element inactive_on_update="false" label="현대오토에버" sequence="2" value="00362441"/>
+                <element inactive_on_update="false" label="CJ대한통운" sequence="8" value="00113410"/>
+                <element inactive_on_update="false" label="삼성전기" sequence="6" value="00126371"/>
+                <element inactive_on_update="false" label="멀티캠퍼스" sequence="3" value="00425351"/>
+                <element inactive_on_update="false" label="현대글로비스" sequence="1" value="00360595"/>
+                <element inactive_on_update="false" label="카카오" sequence="9" value="00258801"/>
+                <element inactive_on_update="false" label="NAVER" sequence="7" value="00266961"/>
+                <element inactive_on_update="false" label="삼성SDI" sequence="5" value="00126362"/>
+                <element inactive_on_update="false" label="삼성물산" sequence="0" value="00149655"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="fulfiller"/>
+        </index>
+        <index name="index2">
+            <element name="requestor"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="demo SEC app Config">a14b57311b982d14153b4260f54bcb53</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Preferences</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">a94b5731a8982d1465e9f630c1f9177b</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4fts00003g8yxah9e3hs</route_type>
+        <screen_type display_value="Preferences">254b57316d982d14872b32a4ea8a6b7b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-11 00:48:29</sys_created_on>
+        <sys_id>a54b5731ff982d145dfe7d165df0437b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences</sys_name>
+        <sys_package display_value="demo SEC app" source="x_snc_demo_sec_app">ef099b4c1b90e114153b4260f54bcb73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo SEC app">ef099b4c1b90e114153b4260f54bcb73</sys_scope>
+        <sys_update_name>sys_ux_app_route_a54b5731ff982d145dfe7d165df0437b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-11 00:48:29</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=a54b5731ff982d145dfe7d165df0437b"/>
+</record_update>

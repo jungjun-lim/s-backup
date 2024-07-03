@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2ff92f841b14e114153b4260f54bcbcc" extends="task" label="demo SEC task" max_length="40" name="x_snc_demo_sec_app_demo_sec_task" type="collection"/>
+</database>

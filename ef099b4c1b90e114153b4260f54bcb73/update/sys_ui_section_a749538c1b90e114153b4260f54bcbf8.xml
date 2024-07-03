@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a749538c1b90e114153b4260f54bcbf8" sys_domain="global" table="x_snc_demo_sec_app_demo_sec" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-05 14:33:30</sys_created_on>
+            <sys_id>b49edf441bd0e114153b4260f54bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_demo_sec_app_demo_sec" sys_domain="global" view="Default view">a749538c1b90e114153b4260f54bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-05 14:33:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_start_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-05 14:33:30</sys_created_on>
+            <sys_id>bc9edf441bd0e114153b4260f54bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_demo_sec_app_demo_sec" sys_domain="global" view="Default view">a749538c1b90e114153b4260f54bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-05 14:33:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_end_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-05 14:33:30</sys_created_on>
+            <sys_id>b09edf441bd0e114153b4260f54bcb12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_demo_sec_app_demo_sec" sys_domain="global" view="Default view">a749538c1b90e114153b4260f54bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-05 14:33:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-05 14:33:30</sys_created_on>
+            <sys_id>b49edf441bd0e114153b4260f54bcb12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_demo_sec_app_demo_sec" sys_domain="global" view="Default view">a749538c1b90e114153b4260f54bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-05 14:33:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-05 14:33:30</sys_created_on>
+            <sys_id>b89edf441bd0e114153b4260f54bcb12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_demo_sec_app_demo_sec" sys_domain="global" view="Default view">a749538c1b90e114153b4260f54bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-05 14:33:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fulfiller</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-05 14:33:30</sys_created_on>
+            <sys_id>bc9edf441bd0e114153b4260f54bcb12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_demo_sec_app_demo_sec" sys_domain="global" view="Default view">a749538c1b90e114153b4260f54bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-05 14:33:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>corporate</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-05 14:33:30</sys_created_on>
+            <sys_id>3c9edf441bd0e114153b4260f54bcb5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_demo_sec_app_demo_sec" sys_domain="global" view="Default view">a749538c1b90e114153b4260f54bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-05 14:33:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>corporate_reference</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-06 02:13:33</sys_created_on>
+            <sys_id>9fce3ddc1b102514153b4260f54bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_demo_sec_app_demo_sec" sys_domain="global" view="Default view">a749538c1b90e114153b4260f54bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-06 02:13:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_demo_sec_app_demo_sec</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-05 14:10:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a749538c1b90e114153b4260f54bcbf8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_demo_sec_app_demo_sec</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="demo SEC app" source="x_snc_demo_sec_app">ef099b4c1b90e114153b4260f54bcb73</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demo SEC app">ef099b4c1b90e114153b4260f54bcb73</sys_scope>
+            <sys_update_name>sys_ui_section_a749538c1b90e114153b4260f54bcbf8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-05 14:10:29</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

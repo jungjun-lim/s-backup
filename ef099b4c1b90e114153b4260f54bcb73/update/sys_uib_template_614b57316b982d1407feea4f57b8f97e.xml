@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,d5d732935301101017caddeeff7b12b3</associated_types>
+        <description/>
+        <image display_value="ui-builder-templates-right-sidebar.svg">89ff424877311010d99bbc3f6810614e</image>
+        <label>Portal Main Content with Right Rail</label>
+        <macroponent display_value="Fixed Width Two-One">2d4b573113982d14bd5fca84c58f067d</macroponent>
+        <macroponent_config/>
+        <optional_properties/>
+        <order>0</order>
+        <required_properties/>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-11 00:48:29</sys_created_on>
+        <sys_id>614b57316b982d1407feea4f57b8f97e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Main Content with Right Rail</sys_name>
+        <sys_package display_value="demo SEC app" source="x_snc_demo_sec_app">ef099b4c1b90e114153b4260f54bcb73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo SEC app">ef099b4c1b90e114153b4260f54bcb73</sys_scope>
+        <sys_update_name>sys_uib_template_614b57316b982d1407feea4f57b8f97e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-11 00:48:29</sys_updated_on>
+        <template_categories>other</template_categories>
+        <type/>
+    </sys_uib_template>
+</record_update>

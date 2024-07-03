@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">654b5731a8982d1430bb0d94780c5281</declarative_action_assignment>
+        <predicate display_value="My Tasks">e14b573140982d14dd5775c7c3a4db74</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-11 00:48:30</sys_created_on>
+        <sys_id>694b573137982d14fe90913424029e70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="demo SEC app" source="x_snc_demo_sec_app">ef099b4c1b90e114153b4260f54bcb73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo SEC app">ef099b4c1b90e114153b4260f54bcb73</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_694b573137982d14fe90913424029e70</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-11 00:48:30</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
